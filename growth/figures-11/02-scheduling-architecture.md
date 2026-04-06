@@ -1,0 +1,1 @@
+Technical diagram showing Starlink's three-layer scheduling architecture: Global Scheduler (ground control center), Satellite Scheduler (on each satellite), and Terminal Scheduler (on user terminals). Include data flow arrows, update frequencies, and resource types managed at each layer. Professional engineering style with clear hierarchy.

@@ -1,0 +1,1 @@
+Technical diagram showing Starlink Ka-band spectrum allocation: downlink frequencies (17.8-18.6 GHz and 18.8-19.3 GHz), uplink frequencies (28.6-29.1 GHz and 29.5-30.0 GHz), dual polarization, and total bandwidth calculations. Professional engineering visualization with frequency axis and bandwidth annotations.

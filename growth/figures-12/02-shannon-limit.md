@@ -1,0 +1,1 @@
+Technical diagram illustrating Shannon-Hartley theorem application to Starlink: bandwidth vs SNR vs capacity curves. Include Ku-band and Ka-band capacity calculations with actual numbers. Professional engineering style with mathematical formulas and clear data visualization.

@@ -1,0 +1,1 @@
+Technical infographic showing Starlink capacity ceiling concept: theoretical limits vs practical constraints. Visual elements: satellite constellation, spectrum allocation chart, Shannon limit formula, bottleneck indicators. Professional engineering visualization with clear data points and technical annotations.

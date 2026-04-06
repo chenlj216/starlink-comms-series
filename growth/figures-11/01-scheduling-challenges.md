@@ -1,0 +1,1 @@
+Technical infographic showing Starlink resource scheduling challenges: thousands of satellites, millions of users, limited spectrum resources, power constraints, and dynamic coverage due to LEO satellite movement. Professional engineering visualization with clear data points and challenge icons.

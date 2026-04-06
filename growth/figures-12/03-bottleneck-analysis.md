@@ -1,0 +1,1 @@
+Technical infographic showing Starlink capacity bottleneck analysis: spectrum resource limitations, satellite orbital constraints, power/energy limits, and ground station/backhaul constraints. Include quantitative data for each bottleneck with capacity impact numbers. Professional engineering visualization with clear hierarchy and technical annotations.

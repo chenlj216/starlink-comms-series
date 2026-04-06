@@ -1,0 +1,1 @@
+Technical infographic showing user concerns about Starlink capacity: single satellite capacity limits, system capacity ceiling, and user density impact on performance. Use professional blue color scheme with clear data visualization elements.

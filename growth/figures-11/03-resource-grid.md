@@ -1,0 +1,1 @@
+Technical illustration of Starlink's time-frequency resource grid: 2D grid showing time slots (1ms, 10ms frames) and frequency blocks (180kHz resource blocks, total 2.5 GHz bandwidth). Include resource allocation examples for different user types and QoS requirements. Professional engineering visualization with clear grid structure and annotations.

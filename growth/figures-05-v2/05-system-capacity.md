@@ -1,0 +1,1 @@
+Technical diagram showing system-level capacity with multi-satellite coordination: multiple LEO satellites covering same area, orbital shell layers (550km, 540km, 570km, 340km), inter-satellite laser links, and capacity stacking effect (248 Gbps total for urban suburban area). Professional engineering style with clear satellite trajectories and capacity annotations.

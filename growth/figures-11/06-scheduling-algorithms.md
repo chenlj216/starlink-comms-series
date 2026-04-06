@@ -1,0 +1,1 @@
+Technical comparison chart showing Starlink's scheduling algorithms: weighted round robin, maximum weight scheduling, opportunistic scheduling, and ML-based scheduling. Include fairness metrics (throughput fairness, opportunity fairness, QoS fairness) and performance trade-offs. Professional engineering visualization with algorithm flowcharts and performance curves.

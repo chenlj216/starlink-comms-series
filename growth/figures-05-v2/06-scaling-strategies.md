@@ -1,0 +1,1 @@
+Technical infographic showing Starlink capacity scaling strategies: satellite evolution (v1 → v2 mini → v2 full size), spectral efficiency improvements (3-4 bps/Hz → 6-8 bps/Hz), orbital shell optimization, and cost reduction trend ($100+/Gbps/month → $1-5/Gbps/month). Professional engineering visualization with clear progression arrows and data points.

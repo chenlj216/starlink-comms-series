@@ -1,0 +1,1 @@
+Technical diagram showing Starlink's QoS mechanisms: resource reservation, adaptive modulation coding (AMC), HARQ retransmission, and traffic shaping. Include QoS parameter definitions (bandwidth guarantee, delay limit, jitter limit, packet loss rate) and real-time monitoring feedback loop. Professional engineering visualization with clear process flow and technical annotations.

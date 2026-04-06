@@ -1,0 +1,1 @@
+Technical infographic showing single Starlink satellite capacity analysis: phased array antenna with 32 beams, beam coverage pattern, frequency reuse factor of 6, modulation schemes (QPSK to 32APSK), and capacity calculation breakdown (40 Gbps downlink + 22.4 Gbps uplink = 62.4 Gbps total). Professional engineering style with clear data labels.
